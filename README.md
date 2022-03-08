@@ -1,4 +1,4 @@
-# LojaDeGames
+# LojaDeGames 🎮
 
 A proposta desse modelo e-commerce é construir um back-end para uma Loja de Games. Além de poder inserir produtos essa API conta o Spring Security que garante a privacidade dos usuários. 
 
@@ -23,3 +23,5 @@ A proposta desse modelo e-commerce é construir um back-end para uma Loja de Gam
 - [x] Lógica MVC (Model-View-Controller).
 - [x] Utilização de metodologias ágeis.
 - [x] Orientação ao Futuro, Persistencia, Proatividade, Mentalidade de Crescimento, Responsabilidade Pessoal, Atenção aos Detalhes.
+ ![GameDogGameControllerGIF](https://user-images.githubusercontent.com/97813649/157142268-79b60f97-230f-4489-801e-da93531fbdb0.gif)
+
