@@ -6,7 +6,7 @@ A proposta desse modelo e-commerce é construir um back-end para uma Loja de Gam
 -  Modelagem do Banco de Dados.
 -  Criação do projeto Maven usando o Spring Boot.
 -  Desenvolvimento das camadas de entidade,repository,controller,service,security e test do projeto.
--  Desenvolvimento das camadas de security (basicSecurityConfig, userDetailImpl, userDetailService, usuarioService e usuarioController).
+-  Desenvolvimento das camadas de security (model, repository, securityConfig, userDetails, userDetailsService, usuarioService e controller).
 
 # Softwares & Ferramentas utilizadas nesse projeto
 - [x] JAVA
